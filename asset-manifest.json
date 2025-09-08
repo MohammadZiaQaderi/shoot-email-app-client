@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shoot-email-app-client/static/css/main.87a328e4.css",
-    "main.js": "/shoot-email-app-client/static/js/main.7b65806d.js",
+    "main.js": "/shoot-email-app-client/static/js/main.b7c4c903.js",
     "index.html": "/shoot-email-app-client/index.html",
     "main.87a328e4.css.map": "/shoot-email-app-client/static/css/main.87a328e4.css.map",
-    "main.7b65806d.js.map": "/shoot-email-app-client/static/js/main.7b65806d.js.map"
+    "main.b7c4c903.js.map": "/shoot-email-app-client/static/js/main.b7c4c903.js.map"
   },
   "entrypoints": [
     "static/css/main.87a328e4.css",
-    "static/js/main.7b65806d.js"
+    "static/js/main.b7c4c903.js"
   ]
 }
